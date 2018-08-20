@@ -1,4 +1,4 @@
 # snmp_scan
-some snmp scan scritps
+quick and dirty snmp scan script via bash
 
-See  [HERE](http://www.ifconfig.it/wordpress/2015/12/simple-cisco-s…-bash-and-snmp) for more details.
+See  [HERE]https://www.ifconfig.it/hugo/post/2015-12-02-simple-cisco-switch-inventory-with-bash-and-snmp/) for more details.
